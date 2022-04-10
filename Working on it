@@ -3,6 +3,7 @@
 
 MODS = {
   [1121086395] = true;
+  [404940011] = true; -- AvengerResembles
 }
 
 ADMINS = {
