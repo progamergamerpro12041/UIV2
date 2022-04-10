@@ -2,7 +2,7 @@
 --// refresh the page before editing
 
 MODS = {
-  [1121086395] = true;
+  [1121086395] = true; -- KoolioDani
   [404940011] = true; -- AvengerResembles
 }
 
