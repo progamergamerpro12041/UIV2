@@ -2,7 +2,6 @@
 --// refresh the page before editing
 
 MODS = {
-  [1121086395] = true; -- KoolioDani
   [404940011] = true; -- AvengerResembles
 }
 
@@ -11,6 +10,7 @@ ADMINS = {
     [3453843344] = true; -- LunaHubDevelopers
     [1084001826] = true; -- WoizxaScripts
     [1146673171] = true; -- Robloxian176174710
+    [1121086395] = true; -- KoolioDani
 }
 
 --// Don't mess with anything below this
